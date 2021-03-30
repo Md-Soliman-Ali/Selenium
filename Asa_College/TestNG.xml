@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test All">
+
+
+<test name="TestNG Annotation">
+
+
+<classes>
+
+<class name="asa_college_edu.TestNG_1st"/>
+
+<class name="asa_college_edu.TestNG_2nd"/>
+
+</classes>
+
+</test>
+
+</suite>
