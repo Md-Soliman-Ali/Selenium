@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-16T13:15:01Z" name="Default suite" finished-at="2021-02-16T13:15:41Z" duration-ms="40260">
+    <groups>
+    </groups>
+    <test started-at="2021-02-16T13:15:01Z" name="Default test" finished-at="2021-02-16T13:15:41Z" duration-ms="40260">
+      <class name="classic_car.Login">
+        <test-method signature="loginAccount()[pri:0, instance:classic_car.Login@20435c40]" started-at="2021-02-16T13:15:01Z" name="loginAccount" finished-at="2021-02-16T13:15:41Z" duration-ms="40245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAccount -->
+      </class> <!-- classic_car.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
