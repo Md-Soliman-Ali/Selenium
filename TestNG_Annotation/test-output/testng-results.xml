@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-02T16:36:54Z" name="TestAll" finished-at="2021-04-02T16:36:54Z" duration-ms="26">
+    <groups>
+    </groups>
+    <test started-at="2021-04-02T16:36:54Z" name="TestNG Annotation" finished-at="2021-04-02T16:36:54Z" duration-ms="26">
+      <class name="TestNG.Annotation.TestNG_Annotation_02">
+        <test-method is-config="true" signature="beforeSuit()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="beforeSuit" finished-at="2021-04-02T16:36:54Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuit -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="beforeTest" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="beforeMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="beforeClass" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="testA()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="testA" finished-at="2021-04-02T16:36:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="beforeMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="afterMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="afterMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testB()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="testB" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method signature="testC()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="testC" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="beforeMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="afterMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testD()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="testD" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testD -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="beforeMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="afterMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="afterClass" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="afterTest" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuit()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_02@6f27a732]" started-at="2021-04-02T16:36:54Z" name="afterSuit" finished-at="2021-04-02T16:36:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- TestNG.Annotation.TestNG_Annotation_02 -->
+      <class name="TestNG.Annotation.TestNG_Annotation_01">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_01@6c779568]" started-at="2021-04-02T16:36:54Z" name="beforeClass" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_01@6c779568]" started-at="2021-04-02T16:36:54Z" name="beforeMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testA()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_01@6c779568]" started-at="2021-04-02T16:36:54Z" name="testA" finished-at="2021-04-02T16:36:54Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_01@6c779568]" started-at="2021-04-02T16:36:54Z" name="afterMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_01@6c779568]" started-at="2021-04-02T16:36:54Z" name="beforeMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testB()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_01@6c779568]" started-at="2021-04-02T16:36:54Z" name="testB" finished-at="2021-04-02T16:36:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_01@6c779568]" started-at="2021-04-02T16:36:54Z" name="afterMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testC()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_01@6c779568]" started-at="2021-04-02T16:36:54Z" name="testC" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_01@6c779568]" started-at="2021-04-02T16:36:54Z" name="beforeMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testD()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_01@6c779568]" started-at="2021-04-02T16:36:54Z" name="testD" finished-at="2021-04-02T16:36:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testD -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_01@6c779568]" started-at="2021-04-02T16:36:54Z" name="beforeMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_01@6c779568]" started-at="2021-04-02T16:36:54Z" name="afterMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_01@6c779568]" started-at="2021-04-02T16:36:54Z" name="afterClass" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.Annotation.TestNG_Annotation_01@6c779568]" started-at="2021-04-02T16:36:54Z" name="afterMethod" finished-at="2021-04-02T16:36:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestNG.Annotation.TestNG_Annotation_01 -->
+    </test> <!-- TestNG Annotation -->
+  </suite> <!-- TestAll -->
+</testng-results>
