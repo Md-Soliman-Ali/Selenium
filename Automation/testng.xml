@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite">
+	<test name="Test">
+		
+		<classes>
+    <class name="com.automation.Verify_Page_Title"/>
+    <class name="com.automation.CheckBox_RadioButton_iframe"/>
+    <class name="com.automation.DropDown"/>
+    <class name="com.automation.Refresh"/>
+    <class name="com.automation.Scroll"/>
+    <class name="com.automation.DoubleClick_RightClick"/>
+    <class name="com.automation.DragAndDrop"/>
+    <class name="com.automation.Slider"/>
+    <class name="com.automation.Keyboard_Event"/>
+    <class name="com.automation.Alert_Handling"/>
+    	</classes>
+    
+	</test>
+</suite>
